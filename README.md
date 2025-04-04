@@ -1,6 +1,6 @@
 ## Enrico Cuono 
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Enrico&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=Enrico&color=41b883&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 ⛏️ Working at Audiogene
 
