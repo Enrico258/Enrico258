@@ -5,7 +5,7 @@
 <p> ⛏️ Working at Audiogene<br/>
 <p> 📖 Studying Computer Science at Universidade Presbiteriana Mackenzie<br/>
   
----
+...
 
   ## 🚀 My Skills
 
@@ -15,9 +15,9 @@ Languages:
 
 Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=aws,linux,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,linux,figma,firebase)](https://skillicons.dev)
 
----
+...
 
 ## 🔭 Learning
 
