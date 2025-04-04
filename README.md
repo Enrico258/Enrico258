@@ -17,5 +17,5 @@
 
 ## 🔭 Learning
 
-Android : [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,apple)](https://skillicons.dev)
 
