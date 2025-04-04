@@ -4,7 +4,8 @@
 
 
 Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,cs)](https://skillicons.dev)
 
 <!--
 **Enrico258/Enrico258** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
