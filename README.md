@@ -8,9 +8,11 @@
 ---
 
   ## 🚀 My Skills
-  
+
+Languages:
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cs,dotnet,vue)](https://skillicons.dev)
 
+Tools:
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,figma)](https://skillicons.dev)
 
 ---
