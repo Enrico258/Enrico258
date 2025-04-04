@@ -14,3 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=aws,linux,figma)](https://skillicons.dev)
 
 ---
+
+## 🔭 Learning
+
+Android : [![My Skills](https://skillicons.dev/icons?i=androidstudio)](https://skillicons.dev)
+
