@@ -20,7 +20,7 @@ Languages:
 
 Tools:
 
-![My Skills](https://skillicons.dev/icons?i=aws,linux,figma,firebase.dotnet)
+![My Skills](https://skillicons.dev/icons?i=aws,linux,figma,firebase,dotnet)
 
 ---
 
