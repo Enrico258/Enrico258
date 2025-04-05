@@ -16,11 +16,11 @@
 
 Languages:
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cs,dotnet,vue)
+![My Skills](https://skillicons.dev/icons?i=js,ts,java,python,c,cs,vue)
 
 Tools:
 
-![My Skills](https://skillicons.dev/icons?i=aws,linux,figma,firebase)
+![My Skills](https://skillicons.dev/icons?i=aws,linux,figma,firebase.dotnet)
 
 ---
 
